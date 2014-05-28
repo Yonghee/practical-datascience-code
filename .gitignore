@@ -2,3 +2,13 @@
 *~
 #*#
 !.gitignore
+
+/mappingExam/csv_hus/
+
+/mappingExam/csv_pus/
+
+/mappingExam/H2DB.h2.db
+
+/.gitignore
+
+/mappingExam/H2DB.lock.db
