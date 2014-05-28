@@ -12,3 +12,8 @@
 /.gitignore
 
 /mappingExam/H2DB.lock.db
+
+/mappingExam/csv_hus/ss11husa.csv
+/mappingExam/csv_hus/ss11husb.csv
+
+.gitignore
